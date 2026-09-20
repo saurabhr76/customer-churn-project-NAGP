@@ -6,6 +6,14 @@ so the retention team can reach them first.
 **Business Problem → Data Preparation → EDA → Feature Engineering → Model → Evaluation →
 Interpretation → Saved Pipeline → REST API**
 
+**Business Problem → Data Preparation → EDA → Feature Engineering → Model → Evaluation →
+Interpretation → Saved Pipeline → REST API**
+
+**Repository:** https://github.com/saurabhr76/customer-churn-project-NAGP
+
+---
+
+
 ---
 
 ## Results at a glance
