@@ -1,0 +1,7 @@
+{
+  "prediction": "Yes",
+  "churn_probability": 0.8903,
+  "risk_level": "Very High",
+  "threshold_used": 0.5,
+  "model_version": "1.0.0"
+}
